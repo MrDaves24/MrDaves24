@@ -1,6 +1,6 @@
 # Pascal Perrenoud
 
-Software engineer in Switzerland, writing Rust and TypeScript. MSc in computer science with a cybersecurity focus (HEIG-VD); previously research at CSEM. I run [Codexa](https://codexa.ch), a small consultancy doing secure code review, applied cryptography and embedded security — and I'm currently looking for a full-time remote engineering role.
+Software engineer in Switzerland, writing Rust and TypeScript. MSc in computer science with a cybersecurity focus (HEIG-VD); previously research at CSEM. I run [Codexa](https://codexa.swiss), a small consultancy doing secure code review, applied cryptography and embedded security — and I'm currently looking for a full-time remote engineering role.
 
 ## What I'm building
 
